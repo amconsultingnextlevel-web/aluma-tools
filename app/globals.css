@@ -1,9 +1,14 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+:root{
+  --aluma-yellow:#F8DF2D;
+  --aluma-yellow-soft:#F8E863;
+  --aluma-charcoal:#3C3C3E;
+  --aluma-charcoal-deep:#4C4C4B;
+  --aluma-bg:#F9FAFB;
+  --aluma-border:#E5E7EB;
 }
+
 
 @theme inline {
   --color-background: var(--background);
